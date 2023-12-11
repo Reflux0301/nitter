@@ -1,1 +1,0 @@
-# Nitter Dockerfile
